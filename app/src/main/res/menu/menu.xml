@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/list_view"
+        android:title="@string/listView">
+        <menu>
+            <item
+                android:id="@+id/list_view_vertical_standard"
+                android:title="@string/vertical_standard" />
+            <item
+                android:id="@+id/list_view_vertical_reverse"
+                android:title="@string/vertical_reverse" />
+            <item
+                android:id="@+id/list_view_horizontal_standard"
+                android:title="@string/horizontal_standard" />
+            <item
+                android:id="@+id/list_view_horizontal_reverse"
+                android:title="@string/horizontal_reverse" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/grid_view"
+        android:title="@string/gridView">
+        <menu>
+            <item
+                android:id="@+id/grid_view_vertical_standard"
+                android:title="@string/vertical_standard" />
+            <item
+                android:id="@+id/grid_view_vertical_reverse"
+                android:title="@string/vertical_reverse" />
+            <item
+                android:id="@+id/grid_view_horizontal_standard"
+                android:title="@string/horizontal_standard" />
+            <item
+                android:id="@+id/grid_view_horizontal_reverse"
+                android:title="@string/horizontal_reverse" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/stagger_view"
+        android:title="@string/staggerView">
+        <menu>
+            <item
+                android:id="@+id/stagger_view_vertical_standard"
+                android:title="@string/vertical_standard" />
+            <item
+                android:id="@+id/stagger_view_vertical_reverse"
+                android:title="@string/vertical_reverse" />
+            <item
+                android:id="@+id/stagger_view_horizontal_standard"
+                android:title="@string/horizontal_standard" />
+            <item
+                android:id="@+id/stagger_view_horizontal_reverse"
+                android:title="@string/horizontal_reverse" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/multi_type"
+        android:title="@string/multi_type" />
+</menu>

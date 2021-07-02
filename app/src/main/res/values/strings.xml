@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RecyclerViewDemo</string>
+    <string name="listView">ListView效果</string>
+    <string name="gridView">GridView效果</string>
+    <string name="staggerView">瀑布流效果</string>
+    <string name="vertical_standard">垂直标准</string>
+    <string name="vertical_reverse">垂直反向</string>
+    <string name="horizontal_standard">水平标准</string>
+    <string name="horizontal_reverse">水平反向</string>
+    <string name="title">我是标题</string>
+    <string name="multi_type">多种条目类型</string>
+    <string name="left_title">我是左边的标题</string>
+    <string name="baidu">www.baidu.com</string>
+</resources>
